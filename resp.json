@@ -1,0 +1,1639 @@
+{
+  "messageCode": "BTANALYTICS_LIST_OK",
+  "message": "BTANALYTICS_LIST_OK",
+  "data": [
+    {
+      "name": "Total",
+      "count": 4845,
+      "commission": "629.49",
+      "commissionUSD": "219.09",
+      "children": [
+        {
+          "name": "02",
+          "count": 1,
+          "commission": "0.38",
+          "commissionUSD": "0.12",
+          "children": [
+            {
+              "name": "16",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            }
+          ]
+        },
+        {
+          "name": "03",
+          "count": 3,
+          "commission": "0.84",
+          "commissionUSD": "0.26",
+          "children": [
+            {
+              "name": "00",
+              "count": 2,
+              "commission": "0.46",
+              "commissionUSD": "0.14"
+            },
+            {
+              "name": "15",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            }
+          ]
+        },
+        {
+          "name": "05",
+          "count": 5,
+          "commission": "1.15",
+          "commissionUSD": "0.35",
+          "children": [
+            {
+              "name": "11",
+              "count": 3,
+              "commission": "0.69",
+              "commissionUSD": "0.21"
+            },
+            {
+              "name": "23",
+              "count": 2,
+              "commission": "0.46",
+              "commissionUSD": "0.14"
+            }
+          ]
+        },
+        {
+          "name": "06",
+          "count": 1,
+          "commission": "0.23",
+          "commissionUSD": "0.07",
+          "children": [
+            {
+              "name": "16",
+              "count": 1,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            }
+          ]
+        },
+        {
+          "name": "07",
+          "count": 1,
+          "commission": "0.23",
+          "commissionUSD": "0.07",
+          "children": [
+            {
+              "name": "00",
+              "count": 1,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            }
+          ]
+        },
+        {
+          "name": "09",
+          "count": 1,
+          "commission": "0.23",
+          "commissionUSD": "0.07",
+          "children": [
+            {
+              "name": "12",
+              "count": 1,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            }
+          ]
+        },
+        {
+          "name": "10",
+          "count": 2,
+          "commission": "36.97",
+          "commissionUSD": "11.82",
+          "children": [
+            {
+              "name": "23",
+              "count": 2,
+              "commission": "36.97",
+              "commissionUSD": "11.82"
+            }
+          ]
+        },
+        {
+          "name": "11",
+          "count": 13,
+          "commission": "79.07",
+          "commissionUSD": "46.98",
+          "children": [
+            {
+              "name": "07",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "09",
+              "count": 2,
+              "commission": "0.76",
+              "commissionUSD": "0.24"
+            },
+            {
+              "name": "11",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "12",
+              "count": 1,
+              "commission": "6.82",
+              "commissionUSD": "2.17"
+            },
+            {
+              "name": "14",
+              "count": 1,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            },
+            {
+              "name": "15",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "16",
+              "count": 1,
+              "commission": "32.00",
+              "commissionUSD": "32.00"
+            },
+            {
+              "name": "17",
+              "count": 2,
+              "commission": "17.72",
+              "commissionUSD": "5.64"
+            },
+            {
+              "name": "19",
+              "count": 1,
+              "commission": "10.95",
+              "commissionUSD": "3.48"
+            },
+            {
+              "name": "20",
+              "count": 1,
+              "commission": "9.84",
+              "commissionUSD": "3.13"
+            },
+            {
+              "name": "22",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            }
+          ]
+        },
+        {
+          "name": "12",
+          "count": 155,
+          "commission": "102.98",
+          "commissionUSD": "32.26",
+          "children": [
+            {
+              "name": "01",
+              "count": 3,
+              "commission": "80.34",
+              "commissionUSD": "25.16"
+            },
+            {
+              "name": "02",
+              "count": 2,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "03",
+              "count": 10,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "04",
+              "count": 7,
+              "commission": "1.81",
+              "commissionUSD": "0.57"
+            },
+            {
+              "name": "05",
+              "count": 4,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "06",
+              "count": 14,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "07",
+              "count": 18,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "08",
+              "count": 15,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "09",
+              "count": 12,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "10",
+              "count": 9,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "11",
+              "count": 7,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "12",
+              "count": 9,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "13",
+              "count": 3,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "14",
+              "count": 9,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "15",
+              "count": 3,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "16",
+              "count": 12,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "17",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "18",
+              "count": 7,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "19",
+              "count": 5,
+              "commission": "4.26",
+              "commissionUSD": "1.34"
+            },
+            {
+              "name": "20",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "21",
+              "count": 2,
+              "commission": "4.47",
+              "commissionUSD": "1.40"
+            },
+            {
+              "name": "23",
+              "count": 1,
+              "commission": "11.33",
+              "commissionUSD": "3.55"
+            }
+          ]
+        },
+        {
+          "name": "13",
+          "count": 175,
+          "commission": "2.28",
+          "commissionUSD": "0.71",
+          "children": [
+            {
+              "name": "00",
+              "count": 2,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "01",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "02",
+              "count": 4,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "03",
+              "count": 9,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "04",
+              "count": 4,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "05",
+              "count": 11,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "06",
+              "count": 10,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "07",
+              "count": 3,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "08",
+              "count": 5,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "09",
+              "count": 6,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "10",
+              "count": 5,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "11",
+              "count": 5,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "12",
+              "count": 4,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "13",
+              "count": 16,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "14",
+              "count": 11,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "15",
+              "count": 9,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "16",
+              "count": 8,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "17",
+              "count": 11,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "18",
+              "count": 19,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "19",
+              "count": 20,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "20",
+              "count": 3,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "21",
+              "count": 6,
+              "commission": "0.76",
+              "commissionUSD": "0.24"
+            },
+            {
+              "name": "22",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "23",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            }
+          ]
+        },
+        {
+          "name": "14",
+          "count": 699,
+          "commission": "2.36",
+          "commissionUSD": "0.74",
+          "children": [
+            {
+              "name": "01",
+              "count": 5,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "02",
+              "count": 11,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "03",
+              "count": 27,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "04",
+              "count": 33,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "05",
+              "count": 43,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "06",
+              "count": 49,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "07",
+              "count": 35,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "08",
+              "count": 49,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "09",
+              "count": 57,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "10",
+              "count": 47,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "11",
+              "count": 41,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "12",
+              "count": 40,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            },
+            {
+              "name": "13",
+              "count": 31,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "14",
+              "count": 47,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "15",
+              "count": 42,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "16",
+              "count": 30,
+              "commission": "0.76",
+              "commissionUSD": "0.24"
+            },
+            {
+              "name": "17",
+              "count": 40,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "18",
+              "count": 29,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "19",
+              "count": 26,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            },
+            {
+              "name": "20",
+              "count": 10,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "21",
+              "count": 4,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "22",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "23",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            }
+          ]
+        },
+        {
+          "name": "15",
+          "count": 896,
+          "commission": "21.84",
+          "commissionUSD": "6.86",
+          "children": [
+            {
+              "name": "00",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "01",
+              "count": 6,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "02",
+              "count": 4,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "03",
+              "count": 18,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "04",
+              "count": 39,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "05",
+              "count": 58,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "06",
+              "count": 53,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "07",
+              "count": 79,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "08",
+              "count": 61,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "09",
+              "count": 58,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "10",
+              "count": 48,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "11",
+              "count": 55,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "12",
+              "count": 42,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "13",
+              "count": 44,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "14",
+              "count": 71,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            },
+            {
+              "name": "15",
+              "count": 60,
+              "commission": "4.91",
+              "commissionUSD": "1.54"
+            },
+            {
+              "name": "16",
+              "count": 53,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "17",
+              "count": 54,
+              "commission": "3.53",
+              "commissionUSD": "1.11"
+            },
+            {
+              "name": "18",
+              "count": 48,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "19",
+              "count": 26,
+              "commission": "2.86",
+              "commissionUSD": "0.90"
+            },
+            {
+              "name": "20",
+              "count": 8,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "21",
+              "count": 3,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "22",
+              "count": 4,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "23",
+              "count": 2,
+              "commission": "9.56",
+              "commissionUSD": "3.00"
+            }
+          ]
+        },
+        {
+          "name": "16",
+          "count": 1078,
+          "commission": "218.60",
+          "commissionUSD": "68.26",
+          "children": [
+            {
+              "name": "00",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "01",
+              "count": 8,
+              "commission": "16.61",
+              "commissionUSD": "5.19"
+            },
+            {
+              "name": "02",
+              "count": 15,
+              "commission": "14.36",
+              "commissionUSD": "4.48"
+            },
+            {
+              "name": "03",
+              "count": 24,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "04",
+              "count": 53,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "05",
+              "count": 75,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "06",
+              "count": 68,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "07",
+              "count": 67,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "08",
+              "count": 64,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "09",
+              "count": 78,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "10",
+              "count": 83,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "11",
+              "count": 75,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "12",
+              "count": 53,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "13",
+              "count": 75,
+              "commission": "119.40",
+              "commissionUSD": "37.29"
+            },
+            {
+              "name": "14",
+              "count": 66,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "15",
+              "count": 72,
+              "commission": "35.02",
+              "commissionUSD": "10.94"
+            },
+            {
+              "name": "16",
+              "count": 57,
+              "commission": "6.30",
+              "commissionUSD": "1.97"
+            },
+            {
+              "name": "17",
+              "count": 59,
+              "commission": "19.59",
+              "commissionUSD": "6.12"
+            },
+            {
+              "name": "18",
+              "count": 42,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "19",
+              "count": 10,
+              "commission": "3.97",
+              "commissionUSD": "1.24"
+            },
+            {
+              "name": "20",
+              "count": 18,
+              "commission": "2.58",
+              "commissionUSD": "0.80"
+            },
+            {
+              "name": "21",
+              "count": 4,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "22",
+              "count": 5,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "23",
+              "count": 6,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            }
+          ]
+        },
+        {
+          "name": "17",
+          "count": 1668,
+          "commission": "82.55",
+          "commissionUSD": "25.76",
+          "children": [
+            {
+              "name": "00",
+              "count": 11,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "01",
+              "count": 25,
+              "commission": "3.20",
+              "commissionUSD": "1.00"
+            },
+            {
+              "name": "02",
+              "count": 46,
+              "commission": "0.76",
+              "commissionUSD": "0.24"
+            },
+            {
+              "name": "03",
+              "count": 76,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "04",
+              "count": 101,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "05",
+              "count": 137,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "06",
+              "count": 161,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "07",
+              "count": 126,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "08",
+              "count": 132,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "09",
+              "count": 155,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "10",
+              "count": 119,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "11",
+              "count": 119,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "12",
+              "count": 96,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "13",
+              "count": 51,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "14",
+              "count": 55,
+              "commission": "3.43",
+              "commissionUSD": "1.07"
+            },
+            {
+              "name": "15",
+              "count": 59,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "16",
+              "count": 58,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "17",
+              "count": 59,
+              "commission": "69.99",
+              "commissionUSD": "21.84"
+            },
+            {
+              "name": "18",
+              "count": 35,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "19",
+              "count": 20,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            },
+            {
+              "name": "20",
+              "count": 10,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "21",
+              "count": 10,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            },
+            {
+              "name": "22",
+              "count": 4,
+              "commission": "3.20",
+              "commissionUSD": "1.00"
+            },
+            {
+              "name": "23",
+              "count": 3,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            }
+          ]
+        },
+        {
+          "name": "18",
+          "count": 63,
+          "commission": "10.58",
+          "commissionUSD": "3.27",
+          "children": [
+            {
+              "name": "00",
+              "count": 6,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            },
+            {
+              "name": "01",
+              "count": 14,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "02",
+              "count": 10,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "03",
+              "count": 15,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "04",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "05",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "06",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "09",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "10",
+              "count": 3,
+              "commission": "3.20",
+              "commissionUSD": "0.99"
+            },
+            {
+              "name": "12",
+              "count": 2,
+              "commission": "3.58",
+              "commissionUSD": "1.10"
+            },
+            {
+              "name": "13",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "14",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "15",
+              "count": 2,
+              "commission": "3.20",
+              "commissionUSD": "0.99"
+            },
+            {
+              "name": "17",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            }
+          ]
+        },
+        {
+          "name": "19",
+          "count": 17,
+          "commission": "0.92",
+          "commissionUSD": "0.29",
+          "children": [
+            {
+              "name": "01",
+              "count": 4,
+              "commission": "0.92",
+              "commissionUSD": "0.29"
+            },
+            {
+              "name": "05",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "09",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "11",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "12",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "13",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "15",
+              "count": 3,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "17",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "20",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            }
+          ]
+        },
+        {
+          "name": "20",
+          "count": 9,
+          "commission": "13.98",
+          "commissionUSD": "4.36",
+          "children": [
+            {
+              "name": "02",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "05",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "10",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "14",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "16",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "18",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "20",
+              "count": 2,
+              "commission": "13.98",
+              "commissionUSD": "4.36"
+            }
+          ]
+        },
+        {
+          "name": "21",
+          "count": 14,
+          "commission": "0.76",
+          "commissionUSD": "0.24",
+          "children": [
+            {
+              "name": "03",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "08",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "09",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "10",
+              "count": 3,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "13",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "14",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "16",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "19",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "20",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "21",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            }
+          ]
+        },
+        {
+          "name": "22",
+          "count": 15,
+          "commission": "10.80",
+          "commissionUSD": "3.37",
+          "children": [
+            {
+              "name": "01",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "02",
+              "count": 5,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "04",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "08",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "09",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "11",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "13",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "16",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "18",
+              "count": 1,
+              "commission": "10.80",
+              "commissionUSD": "3.37"
+            }
+          ]
+        },
+        {
+          "name": "23",
+          "count": 4,
+          "commission": "0.23",
+          "commissionUSD": "0.07",
+          "children": [
+            {
+              "name": "06",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "07",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "18",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "19",
+              "count": 1,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            }
+          ]
+        },
+        {
+          "name": "24",
+          "count": 2,
+          "commission": "20.30",
+          "commissionUSD": "6.30",
+          "children": [
+            {
+              "name": "02",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "16",
+              "count": 1,
+              "commission": "20.30",
+              "commissionUSD": "6.30"
+            }
+          ]
+        },
+        {
+          "name": "26",
+          "count": 4,
+          "commission": "0.23",
+          "commissionUSD": "0.07",
+          "children": [
+            {
+              "name": "12",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "15",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "16",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "23",
+              "count": 1,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            }
+          ]
+        },
+        {
+          "name": "27",
+          "count": 5,
+          "commission": "0.99",
+          "commissionUSD": "0.30",
+          "children": [
+            {
+              "name": "00",
+              "count": 2,
+              "commission": "0.61",
+              "commissionUSD": "0.19"
+            },
+            {
+              "name": "01",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "03",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "22",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            }
+          ]
+        },
+        {
+          "name": "28",
+          "count": 3,
+          "commission": "0.99",
+          "commissionUSD": "0.30",
+          "children": [
+            {
+              "name": "00",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "01",
+              "count": 1,
+              "commission": "0.38",
+              "commissionUSD": "0.12"
+            },
+            {
+              "name": "22",
+              "count": 1,
+              "commission": "0.23",
+              "commissionUSD": "0.07"
+            }
+          ]
+        },
+        {
+          "name": "30",
+          "count": 7,
+          "commission": "20.00",
+          "commissionUSD": "6.19",
+          "children": [
+            {
+              "name": "02",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "03",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "05",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "08",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "11",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "21",
+              "count": 2,
+              "commission": "20.00",
+              "commissionUSD": "6.19"
+            }
+          ]
+        },
+        {
+          "name": "31",
+          "count": 4,
+          "commission": "0.00",
+          "commissionUSD": "0.00",
+          "children": [
+            {
+              "name": "12",
+              "count": 2,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "13",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            },
+            {
+              "name": "17",
+              "count": 1,
+              "commission": "0.00",
+              "commissionUSD": "0.00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "err": {}
+}
