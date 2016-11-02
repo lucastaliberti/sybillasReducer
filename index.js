@@ -56,12 +56,14 @@ const getCurrencyModel = utils.getCurrencyModel
 
 //console.log(item)
 var occurrencePeriod = _.curry((period,occurrence) =>
-    moment(occurrence.pbTime).get(period)
+    //moment(occurrence.pbTime).get(period)
+    moment(occurrence.pbTime).format(period)
 )
 
-var occurrenceDay = occurrencePeriod('day')
-var occurrenceMonth = occurrencePeriod('month')
-var occurrenceYear = occurrencePeriod('year')
+var occurrenceHour = occurrencePeriod('YYYY-MM-DD HH')
+var occurrenceDay = occurrencePeriod('YYYY-MM-DD')
+var occurrenceMonth = occurrencePeriod('YYYY-MM')
+var occurrenceYear = occurrencePeriod('YYYY')
 
 var groupToPeriod = function(group, key){
     return {
@@ -69,23 +71,23 @@ var groupToPeriod = function(group, key){
         times: group
     }
 };
-//var groupToMonth =groupToPeriod('month',)
-var i = 1
-let output =
-  _(analyticsList)
-  .groupBy(occurrenceMonth)
-  .map(groupToPeriod)
-  .reduce((p,v) => {
 
+var reduceToPeriod = (p,v) => {
     let comm = v.times.reduce((o,i) => o += parseFloat(i.commission),0.00)
-
     p[v.name] = p[v.name] || {
                                 count         : 1,
                                 commission    : comm.toFixed(2),
                                 commissionUSD : (comm/defaultCurrency.value).toFixed(2)
                               }
     return p
-  },{})
+}
+//var groupToMonth =groupToPeriod('month',)
+var i = 1
+let output =
+  _(analyticsList)
+  .groupBy(occurrenceHour)
+  .map(groupToPeriod)
+  .reduce(reduceToPeriod,{})
 
   console.log(JSON.stringify(output,null,2))
 
